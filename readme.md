@@ -8,7 +8,9 @@ App name is coco
 Usage example:
 
 >coco namer_vp3
+
 >hi
+
 >--exit
 
 Available commands:
