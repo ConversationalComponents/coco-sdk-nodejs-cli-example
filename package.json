@@ -1,0 +1,26 @@
+{
+  "name": "@aleximp/coco-sdk-nodejs-test",
+  "version": "0.1.3",
+  "description": "Test project for coco-sdk-nodejs",
+  "repository": "https://github.com/ConversationalComponents/coco-sdk-nodejs-cli-example.git",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "coco": "./bin/coco-sdk-nodejs-test.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aleximp/coco-sdk-nodejs": "0.1.4"
+  },
+  "devDependencies": {
+    "@types/request": "^2.48.3",
+    "@types/uuid": "^3.4.5"
+  }
+}
