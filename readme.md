@@ -1,6 +1,9 @@
 CoCo (Conversational Components) SDK example
 https://www.conversationalcomponents.com
 
+Installation:
+npm i @aleximp/coco-sdk-nodejs-test
+
 Test project for coco-sdk-nodejs.
 Uses CLI.
 
