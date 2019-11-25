@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aleximp/coco-sdk-nodejs": "0.1.4"
+    "@aleximp/coco-sdk-nodejs": "0.1.6"
   },
   "devDependencies": {
     "@types/request": "^2.48.3",
-    "@types/uuid": "^3.4.5"
+    "@types/uuid": "^3.4.6"
   }
 }

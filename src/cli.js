@@ -42,7 +42,7 @@ const out = async (input, context) => {
 
 const startNew = cid => {
   component_id = cid;
-  conv = new sdk(component_id);
+  conv = new sdk.ComponentSession(component_id, "test");
   console.log(
     "\x1b[32m",
     `Session restarted with component_id ${component_id}. Insert your input:`,
