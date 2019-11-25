@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aleximp/coco-sdk-nodejs": "0.1.6"
+    "@aleximp/coco-sdk-nodejs": "^0.1.10"
   },
   "devDependencies": {
     "@types/request": "^2.48.3",
